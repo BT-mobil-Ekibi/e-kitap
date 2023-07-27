@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "908404801545",
+    "project_id": "e-kitap-3c172",
+    "storage_bucket": "e-kitap-3c172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908404801545:android:b63cb8bb7a51bed392f8d8",
+        "android_client_info": {
+          "package_name": "com.example.e_kitap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908404801545-qocg7ikn5sh3t3pa6fdqqq1rplavmi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiljwLeucU9-cVvJB289OE2a8Akd7dXgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908404801545-qocg7ikn5sh3t3pa6fdqqq1rplavmi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908404801545-d4f6iugtm5fd7eqilom7999kani6r5qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eKitap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
